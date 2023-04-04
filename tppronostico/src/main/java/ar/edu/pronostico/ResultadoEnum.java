@@ -1,6 +1,5 @@
-package Grupo2;
+package ar.edu.pronostico;
 
 public enum ResultadoEnum {
 	GANADOR,EMPATE,PERDEDOR
-
 }
